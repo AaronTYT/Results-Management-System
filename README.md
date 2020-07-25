@@ -4,17 +4,29 @@
 1. Admin
 2. Manager
 
-Admin's permissions and rules are:
+Admin's credientals and rules are:
 
-Rules:
+Credientals:
 <ul>
   <li>username: admin@ecu.com
   <li>password: Admin#1
 </ul>
+<br>
+
+Rules:
+The Admin shall access the Manage Units Module shown the following picture:
+<img src="" style="height: 200px">
 
 
 
-Manager's permissions and rules are:
-username: manager@ecu.com
-password: Manager#1
+Manager's credientals and rules are:
+Credientals:
+<ul>
+  <li>username: manager@ecu.com
+  <li>password: Manager#1
+</ul>
+<br>
+
+Rules:
+
 
