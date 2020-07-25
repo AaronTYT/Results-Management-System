@@ -15,11 +15,15 @@ Credientals:
 
 Rules:
 The Admin shall access the Manage Units Module shown the following rules:
-This part of the application allows admin to add, edit and delete units from a list of units for which scores have been recorded. The three main fields that describe a unit include;
-  -Unit code
-  -Unit title
-  -Unit coordinator
-  -Unit_outline_pdf_document
+This part of the application allows admin to add, edit and delete units from a list of units for which scores have been recorded. The three main fields that describe a unit include:
+<ul>
+  <li>Unit code</li>
+  <li>Unit title</li>
+  <li>Unit coordinator</li>
+  <li>Unit_outline_pdf_document</li>
+</ul>
+<br>
+  
 For the sake of this assignment we will assume that all units have three assessments, assignment 1, assignment 2 and an exam, worth 20 20 and 60 respectively. In the real world you would define the number of assessments when defining a unit and what each assessment is worth.
 
 <br>
