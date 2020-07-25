@@ -15,7 +15,7 @@ Credientals:
 
 Rules:
 The Admin shall access the Manage Units Module shown the following picture:
-<img src="" style="height: 200px">
+`print("Hello World")`
 <br>
 
 
