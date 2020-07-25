@@ -16,10 +16,10 @@ Credientals:
 Rules:
 The Admin shall access the Manage Units Module shown the following picture:
 <img src="" style="height: 200px">
+<br>
 
 
-
-Manager's credientals and rules are:
+## Manager's credientals and rules are:
 Credientals:
 <ul>
   <li>username: manager@ecu.com
