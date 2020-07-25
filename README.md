@@ -15,7 +15,10 @@ Credientals:
 
 Rules:
 The Admin shall access the Manage Units Module shown the following picture:
-`print("Hello World")`
+
+![Drag Racing](Dragster.jpg)
+
+
 <br>
 
 
