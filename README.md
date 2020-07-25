@@ -7,11 +7,14 @@
 Admin's permissions and rules are:
 
 Rules:
-username: admin@
+<ul>
+  <li>username: admin@ecu.com
+  <li>password: Admin#1
+</ul>
 
 
 
 Manager's permissions and rules are:
-username: manager@
-password: 
+username: manager@ecu.com
+password: Manager#1
 
