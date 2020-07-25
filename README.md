@@ -4,7 +4,7 @@
 1. Admin
 2. Manager
 
-##Admin's credientals and rules are:
+## Admin's credientals and rules are:
 
 Credientals:
 <ul>
