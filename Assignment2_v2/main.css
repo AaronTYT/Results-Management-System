@@ -1,0 +1,113 @@
+﻿h1 {
+    font-size: 40px;
+}
+
+.username, .password {
+    border: 3px solid gray;
+    width: 250px;
+    font-size: 20px;
+}
+    .username:focus, .password:focus {
+        border: 3px solid royalblue;
+    }
+
+.searchBtn, .loginBtn{
+    border: 3px solid black;
+    padding: 15px 40px;
+    font-size: 20px;
+    background-color: lightcyan;
+    border-radius: 8px;
+    transition-duration: 0.3s;
+    box-shadow: 0 3px #666;
+}
+
+    .loginBtn:hover, .searchBtn:hover {
+        border: 3px solid #16e082;
+    }
+
+    .loginBtn:active, .searchBtn:active {
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+    }
+
+
+
+table, th, td {
+    margin: 0 auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    background-color: deepskyblue;
+    color: white;
+}
+
+.unitCode {
+    width: 20%;
+}
+
+.unitCode {
+    width: 20%;
+}
+
+.unitCodeTxt {
+    width: 50%;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.col-10 {
+    float: left;
+    width: 10%;
+    padding-top: 10px;
+}
+
+.col-20 {
+    float: left;
+    width: 20%;
+    padding-top: 10px;
+}
+
+.col-30 {
+    float: left;
+    width: 30%;
+    padding-top: 10px;
+}
+
+.col-40 {
+    float: left;
+    width: 40%;
+    padding-top: 10px;
+}
+
+.col-60 {
+    float: left;
+    width: 60%;
+    padding-top: 10px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.btnAdd:hover {
+    background-color: lightgreen;
+    border: 2px solid black;
+}
+
+.btnClear:hover {
+    background-color: mediumpurple;
+    border: 2px solid black;
+}
